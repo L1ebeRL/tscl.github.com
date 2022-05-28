@@ -69,42 +69,19 @@ Can i submit Multiple levels on 1 video?
 
 ## Owners:
 
-- Bluestone
-- iRaily
+- Liebe
 
 ---
 
-## List Admins:
-
-- AcropolisBoy
-- SupaX\_
-- attrixia
-
-## Server Administrators:
-
-- JustCrust
-- Microwaveee
-
----
-
-## List Helpers:
-
-- Davine
-- hex
-- KylashTheKiller
-
----
 
 ## Server Moderators:
 
-- LBoke
-- frigusterio
-- Nolife
+- SakupenBoy
+- Xiony
+- SpaceUK
 
 ---
 
-## Repo Maintainers:
+## Coders:
 
-- Electro
-- Prometheus
-- Emonadeo
+- Dimasga09
